@@ -1,0 +1,717 @@
+,category,scientific_name,conservation_status,common_names,park_name,observations,obs2
+21448,Bird,Pelecanus occidentalis,In Recovery,Brown Pelican,Bryce,92,0.5454545454545454
+21449,Bird,Pelecanus occidentalis,In Recovery,Brown Pelican,Great Smoky Mountains,47,0.34615384615384615
+21450,Bird,Pelecanus occidentalis,In Recovery,Brown Pelican,Yosemite,122,0.6190476190476191
+21451,Bird,Pelecanus occidentalis,In Recovery,Brown Pelican,Yellowstone,196,0.6587677725118484
+21452,Bird,Haliaeetus leucocephalus,In Recovery,Bald Eagle,Bryce,94,0.5606060606060606
+21453,Bird,Haliaeetus leucocephalus,In Recovery,Bald Eagle,Yellowstone,187,0.6161137440758294
+21454,Bird,Haliaeetus leucocephalus,In Recovery,Bald Eagle,Yosemite,112,0.5510204081632653
+21455,Bird,Haliaeetus leucocephalus,In Recovery,Bald Eagle,Great Smoky Mountains,72,0.5865384615384616
+21456,Bird,Falco peregrinus anatum,In Recovery,American Peregrine Falcon,Bryce,72,0.3939393939393939
+21457,Bird,Falco peregrinus anatum,In Recovery,American Peregrine Falcon,Yellowstone,176,0.5639810426540285
+21458,Bird,Falco peregrinus anatum,In Recovery,American Peregrine Falcon,Great Smoky Mountains,70,0.5673076923076923
+21459,Bird,Falco peregrinus anatum,In Recovery,American Peregrine Falcon,Yosemite,152,0.8231292517006803
+21460,Bird,Thryomanes bewickii altus,Species of Concern,Appalachian Bewick's Wren,Great Smoky Mountains,86,0.7211538461538461
+21461,Bird,Thryomanes bewickii altus,Species of Concern,Appalachian Bewick's Wren,Yellowstone,206,0.7061611374407583
+21462,Bird,Thryomanes bewickii altus,Species of Concern,Appalachian Bewick's Wren,Bryce,106,0.6515151515151515
+21463,Bird,Thryomanes bewickii altus,Species of Concern,Appalachian Bewick's Wren,Yosemite,139,0.7346938775510204
+21464,Mammal,Canis latrans,Species of Concern,Coyote,Bryce,85,0.49242424242424243
+21465,Mammal,Canis latrans,Species of Concern,Coyote,Yellowstone,206,0.7061611374407583
+21466,Mammal,Canis latrans,Species of Concern,Coyote,Great Smoky Mountains,68,0.5480769230769231
+21467,Mammal,Canis latrans,Species of Concern,Coyote,Yosemite,99,0.46258503401360546
+21468,Amphibian,Cryptobranchus alleganiensis alleganiensis,Species of Concern,Eastern Hellbender,Yellowstone,224,0.7914691943127962
+21469,Amphibian,Cryptobranchus alleganiensis alleganiensis,Species of Concern,Eastern Hellbender,Yosemite,111,0.54421768707483
+21470,Amphibian,Cryptobranchus alleganiensis alleganiensis,Species of Concern,Eastern Hellbender,Bryce,95,0.5681818181818182
+21471,Amphibian,Cryptobranchus alleganiensis alleganiensis,Species of Concern,Eastern Hellbender,Great Smoky Mountains,58,0.4519230769230769
+21472,Bird,Plegadis chihi,Species of Concern,White-Faced Ibis,Bryce,103,0.6287878787878788
+21473,Bird,Plegadis chihi,Species of Concern,White-Faced Ibis,Great Smoky Mountains,87,0.7307692307692307
+21474,Bird,Plegadis chihi,Species of Concern,White-Faced Ibis,Yosemite,150,0.8095238095238095
+21475,Bird,Plegadis chihi,Species of Concern,White-Faced Ibis,Yellowstone,255,0.9383886255924171
+21476,Nonvascular Plant,Lophocolea appalachiana,Species of Concern,Appalachian Lophocolea,Great Smoky Mountains,91,0.7692307692307693
+21477,Nonvascular Plant,Lophocolea appalachiana,Species of Concern,Appalachian Lophocolea,Yellowstone,222,0.7819905213270142
+21478,Nonvascular Plant,Lophocolea appalachiana,Species of Concern,Appalachian Lophocolea,Bryce,81,0.4621212121212121
+21479,Nonvascular Plant,Lophocolea appalachiana,Species of Concern,Appalachian Lophocolea,Yosemite,129,0.6666666666666666
+21480,Bird,Wilsonia pusilla,Species of Concern,Wilson's Warbler,Yosemite,118,0.5918367346938775
+21481,Bird,Wilsonia pusilla,Species of Concern,Wilson's Warbler,Yellowstone,205,0.7014218009478673
+21482,Bird,Wilsonia pusilla,Species of Concern,Wilson's Warbler,Bryce,108,0.6666666666666666
+21483,Bird,Wilsonia pusilla,Species of Concern,Wilson's Warbler,Great Smoky Mountains,68,0.5480769230769231
+21484,Vascular Plant,Saxifraga caroliniana,Species of Concern,Carolina Saxifrage,Yosemite,99,0.46258503401360546
+21485,Vascular Plant,Saxifraga caroliniana,Species of Concern,Carolina Saxifrage,Bryce,96,0.5757575757575758
+21486,Vascular Plant,Saxifraga caroliniana,Species of Concern,Carolina Saxifrage,Great Smoky Mountains,75,0.6153846153846154
+21487,Vascular Plant,Saxifraga caroliniana,Species of Concern,Carolina Saxifrage,Yellowstone,230,0.8199052132701422
+21488,Vascular Plant,Najas flexilis,Species of Concern,"Wavy Waternymph, Nodding Waternymph, Slender Naiad",Great Smoky Mountains,83,0.6923076923076923
+21489,Vascular Plant,Najas flexilis,Species of Concern,"Wavy Waternymph, Nodding Waternymph, Slender Naiad",Yellowstone,195,0.6540284360189573
+21490,Vascular Plant,Najas flexilis,Species of Concern,"Wavy Waternymph, Nodding Waternymph, Slender Naiad",Bryce,109,0.6742424242424242
+21491,Vascular Plant,Najas flexilis,Species of Concern,"Wavy Waternymph, Nodding Waternymph, Slender Naiad",Yosemite,127,0.6530612244897959
+21492,Nonvascular Plant,Bazzania nudicaulis,Species of Concern,Bazzania,Yosemite,134,0.7006802721088435
+21493,Nonvascular Plant,Bazzania nudicaulis,Species of Concern,Bazzania,Great Smoky Mountains,108,0.9326923076923077
+21494,Nonvascular Plant,Bazzania nudicaulis,Species of Concern,Bazzania,Yellowstone,268,1.0
+21495,Nonvascular Plant,Bazzania nudicaulis,Species of Concern,Bazzania,Bryce,135,0.8712121212121212
+21496,Bird,Sphyrapicus thyroideus,Species of Concern,Williamson's Sapsucker,Great Smoky Mountains,51,0.38461538461538464
+21497,Bird,Sphyrapicus thyroideus,Species of Concern,Williamson's Sapsucker,Yellowstone,235,0.8436018957345972
+21498,Bird,Sphyrapicus thyroideus,Species of Concern,Williamson's Sapsucker,Bryce,128,0.8181818181818182
+21499,Bird,Sphyrapicus thyroideus,Species of Concern,Williamson's Sapsucker,Yosemite,140,0.7414965986394558
+21500,Amphibian,Desmognathus wrighti,Species of Concern,Pigmy Salamander,Yellowstone,201,0.6824644549763034
+21501,Amphibian,Desmognathus wrighti,Species of Concern,Pigmy Salamander,Bryce,95,0.5681818181818182
+21502,Amphibian,Desmognathus wrighti,Species of Concern,Pigmy Salamander,Great Smoky Mountains,85,0.7115384615384616
+21503,Amphibian,Desmognathus wrighti,Species of Concern,Pigmy Salamander,Yosemite,127,0.6530612244897959
+21504,Bird,Pica nuttalli,Species of Concern,Yellow-Billed Magpie,Yosemite,117,0.5850340136054422
+21505,Bird,Pica nuttalli,Species of Concern,Yellow-Billed Magpie,Great Smoky Mountains,83,0.6923076923076923
+21506,Bird,Pica nuttalli,Species of Concern,Yellow-Billed Magpie,Bryce,128,0.8181818181818182
+21507,Bird,Pica nuttalli,Species of Concern,Yellow-Billed Magpie,Yellowstone,207,0.7109004739336493
+21508,Bird,Falco mexicanus,Species of Concern,Prairie Falcon,Yosemite,121,0.6122448979591837
+21509,Bird,Falco mexicanus,Species of Concern,Prairie Falcon,Yellowstone,200,0.6777251184834123
+21510,Bird,Falco mexicanus,Species of Concern,Prairie Falcon,Great Smoky Mountains,55,0.4230769230769231
+21511,Bird,Falco mexicanus,Species of Concern,Prairie Falcon,Bryce,116,0.7272727272727273
+21512,Amphibian,Hydromantes platycephalus,Species of Concern,Mount Lyell Salamander,Yosemite,162,0.891156462585034
+21513,Amphibian,Hydromantes platycephalus,Species of Concern,Mount Lyell Salamander,Great Smoky Mountains,75,0.6153846153846154
+21514,Amphibian,Hydromantes platycephalus,Species of Concern,Mount Lyell Salamander,Yellowstone,189,0.6255924170616114
+21515,Amphibian,Hydromantes platycephalus,Species of Concern,Mount Lyell Salamander,Bryce,128,0.8181818181818182
+21516,Vascular Plant,Parnassia grandifolia,Species of Concern,"Large-Leaved Grass-Of-Parnassus, Largeleaf Grass Of Parnassus",Yellowstone,211,0.7298578199052133
+21517,Vascular Plant,Parnassia grandifolia,Species of Concern,"Large-Leaved Grass-Of-Parnassus, Largeleaf Grass Of Parnassus",Yosemite,133,0.6938775510204082
+21518,Vascular Plant,Parnassia grandifolia,Species of Concern,"Large-Leaved Grass-Of-Parnassus, Largeleaf Grass Of Parnassus",Bryce,78,0.4393939393939394
+21519,Vascular Plant,Parnassia grandifolia,Species of Concern,"Large-Leaved Grass-Of-Parnassus, Largeleaf Grass Of Parnassus",Great Smoky Mountains,83,0.6923076923076923
+21520,Bird,Aechmophorus occidentalis,Species of Concern,Western Grebe,Yosemite,132,0.6870748299319728
+21521,Bird,Aechmophorus occidentalis,Species of Concern,Western Grebe,Bryce,80,0.45454545454545453
+21522,Bird,Aechmophorus occidentalis,Species of Concern,Western Grebe,Yellowstone,233,0.8341232227488151
+21523,Bird,Aechmophorus occidentalis,Species of Concern,Western Grebe,Great Smoky Mountains,64,0.5096153846153846
+21524,Bird,Sialia mexicana,Species of Concern,Western Bluebird,Bryce,94,0.5606060606060606
+21525,Bird,Sialia mexicana,Species of Concern,Western Bluebird,Yosemite,122,0.6190476190476191
+21526,Bird,Sialia mexicana,Species of Concern,Western Bluebird,Yellowstone,252,0.9241706161137441
+21527,Bird,Sialia mexicana,Species of Concern,Western Bluebird,Great Smoky Mountains,61,0.4807692307692308
+21528,Mammal,Myotis thysanodes,Species of Concern,Fringed Myotis,Bryce,109,0.6742424242424242
+21529,Mammal,Myotis thysanodes,Species of Concern,Fringed Myotis,Yellowstone,215,0.7488151658767772
+21530,Mammal,Myotis thysanodes,Species of Concern,Fringed Myotis,Yosemite,116,0.5782312925170068
+21531,Mammal,Myotis thysanodes,Species of Concern,Fringed Myotis,Great Smoky Mountains,75,0.6153846153846154
+21532,Fish,Percina burtoni,Species of Concern,Blotchside Darter,Great Smoky Mountains,87,0.7307692307692307
+21533,Fish,Percina burtoni,Species of Concern,Blotchside Darter,Yellowstone,205,0.7014218009478673
+21534,Fish,Percina burtoni,Species of Concern,Blotchside Darter,Bryce,101,0.6136363636363636
+21535,Fish,Percina burtoni,Species of Concern,Blotchside Darter,Yosemite,115,0.5714285714285714
+21536,Bird,Pandion haliaetus,Species of Concern,"Osprey, Western Osprey",Yosemite,134,0.7006802721088435
+21537,Bird,Pandion haliaetus,Species of Concern,"Osprey, Western Osprey",Great Smoky Mountains,58,0.4519230769230769
+21538,Bird,Pandion haliaetus,Species of Concern,"Osprey, Western Osprey",Bryce,72,0.3939393939393939
+21539,Bird,Pandion haliaetus,Species of Concern,"Osprey, Western Osprey",Yellowstone,223,0.7867298578199052
+21540,Vascular Plant,Camissonia sierrae ssp. alticola,Species of Concern,"Mono Hot Springs Evening-Primrose, Mono Hot Springs Evening Primrose",Bryce,84,0.48484848484848486
+21541,Vascular Plant,Camissonia sierrae ssp. alticola,Species of Concern,"Mono Hot Springs Evening-Primrose, Mono Hot Springs Evening Primrose",Yosemite,169,0.9387755102040817
+21542,Vascular Plant,Camissonia sierrae ssp. alticola,Species of Concern,"Mono Hot Springs Evening-Primrose, Mono Hot Springs Evening Primrose",Great Smoky Mountains,95,0.8076923076923077
+21543,Vascular Plant,Camissonia sierrae ssp. alticola,Species of Concern,"Mono Hot Springs Evening-Primrose, Mono Hot Springs Evening Primrose",Yellowstone,201,0.6824644549763034
+21544,Bird,Cathartes aura,Species of Concern,Turkey Vulture,Great Smoky Mountains,47,0.34615384615384615
+21545,Bird,Cathartes aura,Species of Concern,Turkey Vulture,Yellowstone,237,0.8530805687203792
+21546,Bird,Cathartes aura,Species of Concern,Turkey Vulture,Yosemite,115,0.5714285714285714
+21547,Bird,Cathartes aura,Species of Concern,Turkey Vulture,Bryce,49,0.2196969696969697
+21548,Mammal,Sorex preblei,Species of Concern,"Malheur Shrew, Preble's Shrew",Great Smoky Mountains,59,0.46153846153846156
+21549,Mammal,Sorex preblei,Species of Concern,"Malheur Shrew, Preble's Shrew",Bryce,71,0.38636363636363635
+21550,Mammal,Sorex preblei,Species of Concern,"Malheur Shrew, Preble's Shrew",Yosemite,140,0.7414965986394558
+21551,Mammal,Sorex preblei,Species of Concern,"Malheur Shrew, Preble's Shrew",Yellowstone,193,0.6445497630331753
+21552,Bird,Elanoides forficatus,Species of Concern,"American Swallow-Tailed Kite, Swallow-Tailed Kite",Great Smoky Mountains,26,0.14423076923076922
+21553,Bird,Elanoides forficatus,Species of Concern,"American Swallow-Tailed Kite, Swallow-Tailed Kite",Yosemite,119,0.5986394557823129
+21554,Bird,Elanoides forficatus,Species of Concern,"American Swallow-Tailed Kite, Swallow-Tailed Kite",Bryce,94,0.5606060606060606
+21555,Bird,Elanoides forficatus,Species of Concern,"American Swallow-Tailed Kite, Swallow-Tailed Kite",Yellowstone,229,0.8151658767772512
+21556,Bird,Bartramia longicauda,Species of Concern,Upland Sandpiper,Yosemite,131,0.6802721088435374
+21557,Bird,Bartramia longicauda,Species of Concern,Upland Sandpiper,Great Smoky Mountains,78,0.6442307692307693
+21558,Bird,Bartramia longicauda,Species of Concern,Upland Sandpiper,Yellowstone,238,0.8578199052132701
+21559,Bird,Bartramia longicauda,Species of Concern,Upland Sandpiper,Bryce,102,0.6212121212121212
+21560,Bird,Circus cyaneus,Species of Concern,Northern Harrier,Yosemite,153,0.8299319727891157
+21561,Bird,Circus cyaneus,Species of Concern,Northern Harrier,Bryce,76,0.42424242424242425
+21562,Bird,Circus cyaneus,Species of Concern,Northern Harrier,Yellowstone,201,0.6824644549763034
+21563,Bird,Circus cyaneus,Species of Concern,Northern Harrier,Great Smoky Mountains,54,0.41346153846153844
+21564,Bird,Buteo lineatus,Species of Concern,Red-Shouldered Hawk,Great Smoky Mountains,31,0.19230769230769232
+21565,Bird,Buteo lineatus,Species of Concern,Red-Shouldered Hawk,Yosemite,109,0.5306122448979592
+21566,Bird,Buteo lineatus,Species of Concern,Red-Shouldered Hawk,Yellowstone,224,0.7914691943127962
+21567,Bird,Buteo lineatus,Species of Concern,Red-Shouldered Hawk,Bryce,85,0.49242424242424243
+21568,Bird,Aquila chrysaetos,Species of Concern,Golden Eagle,Yellowstone,183,0.5971563981042654
+21569,Bird,Aquila chrysaetos,Species of Concern,Golden Eagle,Great Smoky Mountains,65,0.5192307692307693
+21570,Bird,Aquila chrysaetos,Species of Concern,Golden Eagle,Bryce,101,0.6136363636363636
+21571,Bird,Aquila chrysaetos,Species of Concern,Golden Eagle,Yosemite,120,0.6054421768707483
+21572,Bird,Accipiter striatus,Species of Concern,Sharp-Shinned Hawk,Yosemite,115,0.5714285714285714
+21573,Bird,Accipiter striatus,Species of Concern,Sharp-Shinned Hawk,Yellowstone,200,0.6777251184834123
+21574,Bird,Accipiter striatus,Species of Concern,Sharp-Shinned Hawk,Bryce,62,0.3181818181818182
+21575,Bird,Accipiter striatus,Species of Concern,Sharp-Shinned Hawk,Great Smoky Mountains,69,0.5576923076923077
+21576,Vascular Plant,Trillium pusillum var. pusillum,Species of Concern,Dwarf Wakerobin,Yosemite,150,0.8095238095238095
+21577,Vascular Plant,Trillium pusillum var. pusillum,Species of Concern,Dwarf Wakerobin,Great Smoky Mountains,84,0.7019230769230769
+21578,Vascular Plant,Trillium pusillum var. pusillum,Species of Concern,Dwarf Wakerobin,Yellowstone,228,0.8104265402843602
+21579,Vascular Plant,Trillium pusillum var. pusillum,Species of Concern,Dwarf Wakerobin,Bryce,105,0.6439393939393939
+21580,Bird,Accipiter cooperii,Species of Concern,Cooper's Hawk,Bryce,95,0.5681818181818182
+21581,Bird,Accipiter cooperii,Species of Concern,Cooper's Hawk,Yosemite,138,0.7278911564625851
+21582,Bird,Accipiter cooperii,Species of Concern,Cooper's Hawk,Yellowstone,245,0.8909952606635071
+21583,Bird,Accipiter cooperii,Species of Concern,Cooper's Hawk,Great Smoky Mountains,65,0.5192307692307693
+21584,Bird,Buteo lagopus,Species of Concern,Rough-Legged Hawk,Yellowstone,242,0.8767772511848341
+21585,Bird,Buteo lagopus,Species of Concern,Rough-Legged Hawk,Bryce,97,0.5833333333333334
+21586,Bird,Buteo lagopus,Species of Concern,Rough-Legged Hawk,Yosemite,139,0.7346938775510204
+21587,Bird,Buteo lagopus,Species of Concern,Rough-Legged Hawk,Great Smoky Mountains,69,0.5576923076923077
+21588,Vascular Plant,Sium suave,Species of Concern,"Hemlock Waterparsnip, Common Waterparsnip, Hemlock Water-Parsnip",Great Smoky Mountains,40,0.27884615384615385
+21589,Vascular Plant,Sium suave,Species of Concern,"Hemlock Waterparsnip, Common Waterparsnip, Hemlock Water-Parsnip",Bryce,117,0.7348484848484849
+21590,Vascular Plant,Sium suave,Species of Concern,"Hemlock Waterparsnip, Common Waterparsnip, Hemlock Water-Parsnip",Yellowstone,211,0.7298578199052133
+21591,Vascular Plant,Sium suave,Species of Concern,"Hemlock Waterparsnip, Common Waterparsnip, Hemlock Water-Parsnip",Yosemite,154,0.8367346938775511
+21592,Fish,Hemitremia flammea,Species of Concern,Flame Chub,Yellowstone,251,0.919431279620853
+21593,Fish,Hemitremia flammea,Species of Concern,Flame Chub,Bryce,85,0.49242424242424243
+21594,Fish,Hemitremia flammea,Species of Concern,Flame Chub,Great Smoky Mountains,54,0.41346153846153844
+21595,Fish,Hemitremia flammea,Species of Concern,Flame Chub,Yosemite,149,0.8027210884353742
+21596,Vascular Plant,Parthenium integrifolium,Species of Concern,"American Fever-Few, Wild Quinine",Yosemite,137,0.7210884353741497
+21597,Vascular Plant,Parthenium integrifolium,Species of Concern,"American Fever-Few, Wild Quinine",Great Smoky Mountains,80,0.6634615384615384
+21598,Vascular Plant,Parthenium integrifolium,Species of Concern,"American Fever-Few, Wild Quinine",Bryce,73,0.4015151515151515
+21599,Vascular Plant,Parthenium integrifolium,Species of Concern,"American Fever-Few, Wild Quinine",Yellowstone,252,0.9241706161137441
+21600,Bird,Icteria virens,Species of Concern,Yellow-Breasted Chat,Great Smoky Mountains,69,0.5576923076923077
+21601,Bird,Icteria virens,Species of Concern,Yellow-Breasted Chat,Yosemite,114,0.564625850340136
+21602,Bird,Icteria virens,Species of Concern,Yellow-Breasted Chat,Yellowstone,193,0.6445497630331753
+21603,Bird,Icteria virens,Species of Concern,Yellow-Breasted Chat,Bryce,80,0.45454545454545453
+21604,Vascular Plant,Carex communis var. amplisquama,Species of Concern,Dixie Sedge,Yosemite,163,0.8979591836734694
+21605,Vascular Plant,Carex communis var. amplisquama,Species of Concern,Dixie Sedge,Yellowstone,224,0.7914691943127962
+21606,Vascular Plant,Carex communis var. amplisquama,Species of Concern,Dixie Sedge,Bryce,81,0.4621212121212121
+21607,Vascular Plant,Carex communis var. amplisquama,Species of Concern,Dixie Sedge,Great Smoky Mountains,89,0.75
+21608,Amphibian,Rana luteiventris,Species of Concern,Columbia Spotted Frog,Yosemite,156,0.8503401360544217
+21609,Amphibian,Rana luteiventris,Species of Concern,Columbia Spotted Frog,Yellowstone,238,0.8578199052132701
+21610,Amphibian,Rana luteiventris,Species of Concern,Columbia Spotted Frog,Great Smoky Mountains,31,0.19230769230769232
+21611,Amphibian,Rana luteiventris,Species of Concern,Columbia Spotted Frog,Bryce,69,0.3712121212121212
+21612,Vascular Plant,Dichanthelium acuminatum var. acuminatum,Species of Concern,Tapered Rosette Grass,Yosemite,123,0.6258503401360545
+21613,Vascular Plant,Dichanthelium acuminatum var. acuminatum,Species of Concern,Tapered Rosette Grass,Yellowstone,225,0.7962085308056872
+21614,Vascular Plant,Dichanthelium acuminatum var. acuminatum,Species of Concern,Tapered Rosette Grass,Bryce,87,0.5075757575757576
+21615,Vascular Plant,Dichanthelium acuminatum var. acuminatum,Species of Concern,Tapered Rosette Grass,Great Smoky Mountains,62,0.49038461538461536
+21616,Bird,Contopus cooperi,Species of Concern,Olive-Sided Flycatcher,Bryce,130,0.8333333333333334
+21617,Bird,Contopus cooperi,Species of Concern,Olive-Sided Flycatcher,Great Smoky Mountains,40,0.27884615384615385
+21618,Bird,Contopus cooperi,Species of Concern,Olive-Sided Flycatcher,Yosemite,150,0.8095238095238095
+21619,Bird,Contopus cooperi,Species of Concern,Olive-Sided Flycatcher,Yellowstone,243,0.8815165876777251
+21620,Vascular Plant,Callitriche marginata,Species of Concern,Winged Water-Starwort,Yellowstone,237,0.8530805687203792
+21621,Vascular Plant,Callitriche marginata,Species of Concern,Winged Water-Starwort,Great Smoky Mountains,85,0.7115384615384616
+21622,Vascular Plant,Callitriche marginata,Species of Concern,Winged Water-Starwort,Bryce,84,0.48484848484848486
+21623,Vascular Plant,Callitriche marginata,Species of Concern,Winged Water-Starwort,Yosemite,165,0.9115646258503401
+21624,Bird,Elanus leucurus,Species of Concern,White-Tailed Kite,Great Smoky Mountains,87,0.7307692307692307
+21625,Bird,Elanus leucurus,Species of Concern,White-Tailed Kite,Yellowstone,214,0.7440758293838863
+21626,Bird,Elanus leucurus,Species of Concern,White-Tailed Kite,Yosemite,136,0.7142857142857143
+21627,Bird,Elanus leucurus,Species of Concern,White-Tailed Kite,Bryce,71,0.38636363636363635
+21628,Mammal,Myotis leibii,Species of Concern,"Eastern Small-Footed Myotis, Eastern Small-Footed Bat",Yosemite,132,0.6870748299319728
+21629,Mammal,Myotis leibii,Species of Concern,"Eastern Small-Footed Myotis, Eastern Small-Footed Bat",Bryce,84,0.48484848484848486
+21630,Mammal,Myotis leibii,Species of Concern,"Eastern Small-Footed Myotis, Eastern Small-Footed Bat",Great Smoky Mountains,49,0.36538461538461536
+21631,Mammal,Myotis leibii,Species of Concern,"Eastern Small-Footed Myotis, Eastern Small-Footed Bat",Yellowstone,233,0.8341232227488151
+21632,Mammal,Myotis keenii,Species of Concern,Keen's Myotis,Bryce,86,0.5
+21633,Mammal,Myotis keenii,Species of Concern,Keen's Myotis,Great Smoky Mountains,29,0.17307692307692307
+21634,Mammal,Myotis keenii,Species of Concern,Keen's Myotis,Yellowstone,227,0.8056872037914692
+21635,Mammal,Myotis keenii,Species of Concern,Keen's Myotis,Yosemite,144,0.7687074829931972
+21636,Mammal,Myotis austroriparius,Species of Concern,"Mississippi Myotis, Southeastern Myotis",Yellowstone,240,0.8672985781990521
+21637,Mammal,Myotis austroriparius,Species of Concern,"Mississippi Myotis, Southeastern Myotis",Great Smoky Mountains,60,0.47115384615384615
+21638,Mammal,Myotis austroriparius,Species of Concern,"Mississippi Myotis, Southeastern Myotis",Bryce,152,1.0
+21639,Mammal,Myotis austroriparius,Species of Concern,"Mississippi Myotis, Southeastern Myotis",Yosemite,116,0.5782312925170068
+21640,Bird,Vermivora ruficapilla,Species of Concern,Nashville Warbler,Yellowstone,229,0.8151658767772512
+21641,Bird,Vermivora ruficapilla,Species of Concern,Nashville Warbler,Bryce,67,0.3560606060606061
+21642,Bird,Vermivora ruficapilla,Species of Concern,Nashville Warbler,Great Smoky Mountains,59,0.46153846153846156
+21643,Bird,Vermivora ruficapilla,Species of Concern,Nashville Warbler,Yosemite,108,0.5238095238095238
+21644,Vascular Plant,Lysimachia fraseri,Species of Concern,Fraser's Loosestrife,Yellowstone,238,0.8578199052132701
+21645,Vascular Plant,Lysimachia fraseri,Species of Concern,Fraser's Loosestrife,Great Smoky Mountains,80,0.6634615384615384
+21646,Vascular Plant,Lysimachia fraseri,Species of Concern,Fraser's Loosestrife,Yosemite,142,0.7551020408163265
+21647,Vascular Plant,Lysimachia fraseri,Species of Concern,Fraser's Loosestrife,Bryce,86,0.5
+21648,Vascular Plant,Castilleja sulphurea,Species of Concern,Sulphur Indian Paintbrush,Bryce,89,0.5227272727272727
+21649,Vascular Plant,Castilleja sulphurea,Species of Concern,Sulphur Indian Paintbrush,Great Smoky Mountains,60,0.47115384615384615
+21650,Vascular Plant,Castilleja sulphurea,Species of Concern,Sulphur Indian Paintbrush,Yellowstone,253,0.9289099526066351
+21651,Vascular Plant,Castilleja sulphurea,Species of Concern,Sulphur Indian Paintbrush,Yosemite,132,0.6870748299319728
+21652,Vascular Plant,Eriophyllum nubigenum,Species of Concern,Yosemite Woolly Sunflower,Yosemite,118,0.5918367346938775
+21653,Vascular Plant,Eriophyllum nubigenum,Species of Concern,Yosemite Woolly Sunflower,Yellowstone,234,0.8388625592417062
+21654,Vascular Plant,Eriophyllum nubigenum,Species of Concern,Yosemite Woolly Sunflower,Bryce,133,0.8560606060606061
+21655,Vascular Plant,Eriophyllum nubigenum,Species of Concern,Yosemite Woolly Sunflower,Great Smoky Mountains,59,0.46153846153846156
+21656,Bird,Limosa fedoa,Species of Concern,Marbled Godwit,Yellowstone,266,0.990521327014218
+21657,Bird,Limosa fedoa,Species of Concern,Marbled Godwit,Yosemite,131,0.6802721088435374
+21658,Bird,Limosa fedoa,Species of Concern,Marbled Godwit,Great Smoky Mountains,82,0.6826923076923077
+21659,Bird,Limosa fedoa,Species of Concern,Marbled Godwit,Bryce,96,0.5757575757575758
+21660,Vascular Plant,Zizia trifoliata,Species of Concern,"Meadow Alexanders, Three-Leaved Golden Alexanders",Yosemite,135,0.7074829931972789
+21661,Vascular Plant,Zizia trifoliata,Species of Concern,"Meadow Alexanders, Three-Leaved Golden Alexanders",Yellowstone,238,0.8578199052132701
+21662,Vascular Plant,Zizia trifoliata,Species of Concern,"Meadow Alexanders, Three-Leaved Golden Alexanders",Bryce,87,0.5075757575757576
+21663,Vascular Plant,Zizia trifoliata,Species of Concern,"Meadow Alexanders, Three-Leaved Golden Alexanders",Great Smoky Mountains,80,0.6634615384615384
+21664,Bird,Stellula calliope,Species of Concern,Calliope Hummingbird,Bryce,104,0.6363636363636364
+21665,Bird,Stellula calliope,Species of Concern,Calliope Hummingbird,Yellowstone,224,0.7914691943127962
+21666,Bird,Stellula calliope,Species of Concern,Calliope Hummingbird,Great Smoky Mountains,63,0.5
+21667,Bird,Stellula calliope,Species of Concern,Calliope Hummingbird,Yosemite,127,0.6530612244897959
+21668,Bird,Selasphorus rufus,Species of Concern,Rufous Hummingbird,Yellowstone,212,0.7345971563981043
+21669,Bird,Selasphorus rufus,Species of Concern,Rufous Hummingbird,Yosemite,133,0.6938775510204082
+21670,Bird,Selasphorus rufus,Species of Concern,Rufous Hummingbird,Great Smoky Mountains,86,0.7211538461538461
+21671,Bird,Selasphorus rufus,Species of Concern,Rufous Hummingbird,Bryce,106,0.6515151515151515
+21672,Vascular Plant,Vaccinium hirsutum,Species of Concern,Hairy Blueberry,Bryce,90,0.5303030303030303
+21673,Vascular Plant,Vaccinium hirsutum,Species of Concern,Hairy Blueberry,Great Smoky Mountains,58,0.4519230769230769
+21674,Vascular Plant,Vaccinium hirsutum,Species of Concern,Hairy Blueberry,Yosemite,125,0.6394557823129252
+21675,Vascular Plant,Vaccinium hirsutum,Species of Concern,Hairy Blueberry,Yellowstone,213,0.7393364928909952
+21676,Vascular Plant,Mimulus filicaulis,Species of Concern,"Slenderstem Monkeyflower, Hetch Hetchy Monkey-Flower",Bryce,87,0.5075757575757576
+21677,Vascular Plant,Mimulus filicaulis,Species of Concern,"Slenderstem Monkeyflower, Hetch Hetchy Monkey-Flower",Yosemite,119,0.5986394557823129
+21678,Vascular Plant,Mimulus filicaulis,Species of Concern,"Slenderstem Monkeyflower, Hetch Hetchy Monkey-Flower",Yellowstone,197,0.6635071090047393
+21679,Vascular Plant,Mimulus filicaulis,Species of Concern,"Slenderstem Monkeyflower, Hetch Hetchy Monkey-Flower",Great Smoky Mountains,61,0.4807692307692308
+21680,Vascular Plant,Calamagrostis cainii,Species of Concern,"Cain's Reed-Grass, Cain's Reed-Bent Grass",Bryce,126,0.803030303030303
+21681,Vascular Plant,Calamagrostis cainii,Species of Concern,"Cain's Reed-Grass, Cain's Reed-Bent Grass",Great Smoky Mountains,49,0.36538461538461536
+21682,Vascular Plant,Calamagrostis cainii,Species of Concern,"Cain's Reed-Grass, Cain's Reed-Bent Grass",Yellowstone,260,0.9620853080568721
+21683,Vascular Plant,Calamagrostis cainii,Species of Concern,"Cain's Reed-Grass, Cain's Reed-Bent Grass",Yosemite,146,0.782312925170068
+21684,Fish,Cottus bairdii,Species of Concern,Mottled Sculpin,Yellowstone,246,0.8957345971563981
+21685,Fish,Cottus bairdii,Species of Concern,Mottled Sculpin,Great Smoky Mountains,69,0.5576923076923077
+21686,Fish,Cottus bairdii,Species of Concern,Mottled Sculpin,Bryce,56,0.2727272727272727
+21687,Fish,Cottus bairdii,Species of Concern,Mottled Sculpin,Yosemite,134,0.7006802721088435
+21688,Bird,Cygnus buccinator,Species of Concern,Trumpeter Swan,Yellowstone,213,0.7393364928909952
+21689,Bird,Cygnus buccinator,Species of Concern,Trumpeter Swan,Bryce,103,0.6287878787878788
+21690,Bird,Cygnus buccinator,Species of Concern,Trumpeter Swan,Yosemite,131,0.6802721088435374
+21691,Bird,Cygnus buccinator,Species of Concern,Trumpeter Swan,Great Smoky Mountains,34,0.22115384615384615
+21692,Bird,Empidonax traillii,Species of Concern,Willow Flycatcher,Yosemite,121,0.6122448979591837
+21693,Bird,Empidonax traillii,Species of Concern,Willow Flycatcher,Great Smoky Mountains,94,0.7980769230769231
+21694,Bird,Empidonax traillii,Species of Concern,Willow Flycatcher,Bryce,109,0.6742424242424242
+21695,Bird,Empidonax traillii,Species of Concern,Willow Flycatcher,Yellowstone,229,0.8151658767772512
+21696,Vascular Plant,Rugelia nudicaulis,Species of Concern,Rugel's Ragwort,Yosemite,120,0.6054421768707483
+21697,Vascular Plant,Rugelia nudicaulis,Species of Concern,Rugel's Ragwort,Bryce,93,0.553030303030303
+21698,Vascular Plant,Rugelia nudicaulis,Species of Concern,Rugel's Ragwort,Great Smoky Mountains,58,0.4519230769230769
+21699,Vascular Plant,Rugelia nudicaulis,Species of Concern,Rugel's Ragwort,Yellowstone,186,0.6113744075829384
+21700,Bird,Patagioenas fasciata,Species of Concern,Band-Tailed Pigeon,Bryce,97,0.5833333333333334
+21701,Bird,Patagioenas fasciata,Species of Concern,Band-Tailed Pigeon,Yosemite,133,0.6938775510204082
+21702,Bird,Patagioenas fasciata,Species of Concern,Band-Tailed Pigeon,Yellowstone,232,0.8293838862559242
+21703,Bird,Patagioenas fasciata,Species of Concern,Band-Tailed Pigeon,Great Smoky Mountains,58,0.4519230769230769
+21704,Bird,Cypseloides niger,Species of Concern,Black Swift,Yellowstone,194,0.6492890995260664
+21705,Bird,Cypseloides niger,Species of Concern,Black Swift,Bryce,103,0.6287878787878788
+21706,Bird,Cypseloides niger,Species of Concern,Black Swift,Yosemite,159,0.8707482993197279
+21707,Bird,Cypseloides niger,Species of Concern,Black Swift,Great Smoky Mountains,69,0.5576923076923077
+21708,Bird,Sterna hirundo,Species of Concern,Common Tern,Great Smoky Mountains,71,0.5769230769230769
+21709,Bird,Sterna hirundo,Species of Concern,Common Tern,Yellowstone,225,0.7962085308056872
+21710,Bird,Sterna hirundo,Species of Concern,Common Tern,Bryce,109,0.6742424242424242
+21711,Bird,Sterna hirundo,Species of Concern,Common Tern,Yosemite,143,0.7619047619047619
+21712,Vascular Plant,Juglans cinerea,Species of Concern,"White Walnut, Butternut",Bryce,108,0.6666666666666666
+21713,Vascular Plant,Juglans cinerea,Species of Concern,"White Walnut, Butternut",Yosemite,149,0.8027210884353742
+21714,Vascular Plant,Juglans cinerea,Species of Concern,"White Walnut, Butternut",Yellowstone,205,0.7014218009478673
+21715,Vascular Plant,Juglans cinerea,Species of Concern,"White Walnut, Butternut",Great Smoky Mountains,87,0.7307692307692307
+21716,Bird,Chaetura vauxi,Species of Concern,Vaux's Swift,Great Smoky Mountains,53,0.40384615384615385
+21717,Bird,Chaetura vauxi,Species of Concern,Vaux's Swift,Yellowstone,233,0.8341232227488151
+21718,Bird,Chaetura vauxi,Species of Concern,Vaux's Swift,Bryce,80,0.45454545454545453
+21719,Bird,Chaetura vauxi,Species of Concern,Vaux's Swift,Yosemite,111,0.54421768707483
+21720,Nonvascular Plant,Leptohymenium sharpii,Species of Concern,Sharp's Leptohymenium Moss,Great Smoky Mountains,44,0.3173076923076923
+21721,Nonvascular Plant,Leptohymenium sharpii,Species of Concern,Sharp's Leptohymenium Moss,Yosemite,137,0.7210884353741497
+21722,Nonvascular Plant,Leptohymenium sharpii,Species of Concern,Sharp's Leptohymenium Moss,Bryce,123,0.7803030303030303
+21723,Nonvascular Plant,Leptohymenium sharpii,Species of Concern,Sharp's Leptohymenium Moss,Yellowstone,217,0.7582938388625592
+21724,Reptile,Sceloporus graciosus graciosus,Species of Concern,Northern Sagebrush Lizard,Yosemite,137,0.7210884353741497
+21725,Reptile,Sceloporus graciosus graciosus,Species of Concern,Northern Sagebrush Lizard,Bryce,81,0.4621212121212121
+21726,Reptile,Sceloporus graciosus graciosus,Species of Concern,Northern Sagebrush Lizard,Great Smoky Mountains,80,0.6634615384615384
+21727,Reptile,Sceloporus graciosus graciosus,Species of Concern,Northern Sagebrush Lizard,Yellowstone,240,0.8672985781990521
+21728,Vascular Plant,Lomatium congdonii,Species of Concern,"Congdon's Lomatium, Mariposa Desertparsley",Yosemite,148,0.7959183673469388
+21729,Vascular Plant,Lomatium congdonii,Species of Concern,"Congdon's Lomatium, Mariposa Desertparsley",Bryce,92,0.5454545454545454
+21730,Vascular Plant,Lomatium congdonii,Species of Concern,"Congdon's Lomatium, Mariposa Desertparsley",Yellowstone,217,0.7582938388625592
+21731,Vascular Plant,Lomatium congdonii,Species of Concern,"Congdon's Lomatium, Mariposa Desertparsley",Great Smoky Mountains,70,0.5673076923076923
+21732,Vascular Plant,Trifolium bolanderi,Species of Concern,Parasol Clover,Great Smoky Mountains,76,0.625
+21733,Vascular Plant,Trifolium bolanderi,Species of Concern,Parasol Clover,Yosemite,137,0.7210884353741497
+21734,Vascular Plant,Trifolium bolanderi,Species of Concern,Parasol Clover,Yellowstone,246,0.8957345971563981
+21735,Vascular Plant,Trifolium bolanderi,Species of Concern,Parasol Clover,Bryce,95,0.5681818181818182
+21736,Vascular Plant,Lilium grayi,Species of Concern,Gray's Lily,Great Smoky Mountains,89,0.75
+21737,Vascular Plant,Lilium grayi,Species of Concern,Gray's Lily,Yellowstone,225,0.7962085308056872
+21738,Vascular Plant,Lilium grayi,Species of Concern,Gray's Lily,Bryce,71,0.38636363636363635
+21739,Vascular Plant,Lilium grayi,Species of Concern,Gray's Lily,Yosemite,130,0.673469387755102
+21740,Vascular Plant,Glyceria nubigena,Species of Concern,Smoky Mountain Mannagrass,Yellowstone,216,0.7535545023696683
+21741,Vascular Plant,Glyceria nubigena,Species of Concern,Smoky Mountain Mannagrass,Bryce,104,0.6363636363636364
+21742,Vascular Plant,Glyceria nubigena,Species of Concern,Smoky Mountain Mannagrass,Yosemite,133,0.6938775510204082
+21743,Vascular Plant,Glyceria nubigena,Species of Concern,Smoky Mountain Mannagrass,Great Smoky Mountains,46,0.33653846153846156
+21744,Bird,Tachycineta bicolor,Species of Concern,Tree Swallow,Great Smoky Mountains,69,0.5576923076923077
+21745,Bird,Tachycineta bicolor,Species of Concern,Tree Swallow,Yellowstone,190,0.6303317535545023
+21746,Bird,Tachycineta bicolor,Species of Concern,Tree Swallow,Yosemite,125,0.6394557823129252
+21747,Bird,Tachycineta bicolor,Species of Concern,Tree Swallow,Bryce,101,0.6136363636363636
+21748,Bird,Pipilo chlorurus,Species of Concern,Green-Tailed Towhee,Bryce,67,0.3560606060606061
+21749,Bird,Pipilo chlorurus,Species of Concern,Green-Tailed Towhee,Great Smoky Mountains,62,0.49038461538461536
+21750,Bird,Pipilo chlorurus,Species of Concern,Green-Tailed Towhee,Yosemite,135,0.7074829931972789
+21751,Bird,Pipilo chlorurus,Species of Concern,Green-Tailed Towhee,Yellowstone,218,0.7630331753554502
+21752,Bird,Sphyrapicus varius,Species of Concern,Yellow-Bellied Sapsucker,Bryce,105,0.6439393939393939
+21753,Bird,Sphyrapicus varius,Species of Concern,Yellow-Bellied Sapsucker,Yosemite,159,0.8707482993197279
+21754,Bird,Sphyrapicus varius,Species of Concern,Yellow-Bellied Sapsucker,Yellowstone,208,0.7156398104265402
+21755,Bird,Sphyrapicus varius,Species of Concern,Yellow-Bellied Sapsucker,Great Smoky Mountains,34,0.22115384615384615
+21756,Bird,Loxia curvirostra,Species of Concern,Red Crossbill,Yosemite,142,0.7551020408163265
+21757,Bird,Loxia curvirostra,Species of Concern,Red Crossbill,Yellowstone,209,0.7203791469194313
+21758,Bird,Loxia curvirostra,Species of Concern,Red Crossbill,Bryce,101,0.6136363636363636
+21759,Bird,Loxia curvirostra,Species of Concern,Red Crossbill,Great Smoky Mountains,47,0.34615384615384615
+21760,Bird,Rallus elegans,Species of Concern,King Rail,Yosemite,140,0.7414965986394558
+21761,Bird,Rallus elegans,Species of Concern,King Rail,Yellowstone,222,0.7819905213270142
+21762,Bird,Rallus elegans,Species of Concern,King Rail,Great Smoky Mountains,81,0.6730769230769231
+21763,Bird,Rallus elegans,Species of Concern,King Rail,Bryce,53,0.25
+21764,Mammal,Ovis canadensis,Species of Concern,Bighorn Sheep,Yellowstone,219,0.7677725118483413
+21765,Mammal,Ovis canadensis,Species of Concern,Bighorn Sheep,Bryce,109,0.6742424242424242
+21766,Mammal,Ovis canadensis,Species of Concern,Bighorn Sheep,Yosemite,117,0.5850340136054422
+21767,Mammal,Ovis canadensis,Species of Concern,Bighorn Sheep,Great Smoky Mountains,48,0.3557692307692308
+21768,Bird,Spizella breweri,Species of Concern,Brewer's Sparrow,Yosemite,126,0.6462585034013606
+21769,Bird,Spizella breweri,Species of Concern,Brewer's Sparrow,Great Smoky Mountains,72,0.5865384615384616
+21770,Bird,Spizella breweri,Species of Concern,Brewer's Sparrow,Yellowstone,221,0.7772511848341233
+21771,Bird,Spizella breweri,Species of Concern,Brewer's Sparrow,Bryce,105,0.6439393939393939
+21772,Bird,Calcarius mccownii,Species of Concern,Mccown's Longspur,Bryce,108,0.6666666666666666
+21773,Bird,Calcarius mccownii,Species of Concern,Mccown's Longspur,Yellowstone,204,0.6966824644549763
+21774,Bird,Calcarius mccownii,Species of Concern,Mccown's Longspur,Yosemite,153,0.8299319727891157
+21775,Bird,Calcarius mccownii,Species of Concern,Mccown's Longspur,Great Smoky Mountains,51,0.38461538461538464
+21776,Bird,Picoides pubescens,Species of Concern,Downy Woodpecker,Yellowstone,216,0.7535545023696683
+21777,Bird,Picoides pubescens,Species of Concern,Downy Woodpecker,Yosemite,144,0.7687074829931972
+21778,Bird,Picoides pubescens,Species of Concern,Downy Woodpecker,Great Smoky Mountains,55,0.4230769230769231
+21779,Bird,Picoides pubescens,Species of Concern,Downy Woodpecker,Bryce,79,0.44696969696969696
+21780,Bird,Progne subis,Species of Concern,Purple Martin,Great Smoky Mountains,47,0.34615384615384615
+21781,Bird,Progne subis,Species of Concern,Purple Martin,Yellowstone,243,0.8815165876777251
+21782,Bird,Progne subis,Species of Concern,Purple Martin,Bryce,82,0.4696969696969697
+21783,Bird,Progne subis,Species of Concern,Purple Martin,Yosemite,110,0.5374149659863946
+21784,Vascular Plant,Poa paludigena,Species of Concern,Bog Bluegrass,Yosemite,154,0.8367346938775511
+21785,Vascular Plant,Poa paludigena,Species of Concern,Bog Bluegrass,Great Smoky Mountains,81,0.6730769230769231
+21786,Vascular Plant,Poa paludigena,Species of Concern,Bog Bluegrass,Bryce,61,0.3106060606060606
+21787,Vascular Plant,Poa paludigena,Species of Concern,Bog Bluegrass,Yellowstone,249,0.909952606635071
+21788,Bird,Pyrocephalus rubinus,Species of Concern,Vermilion Flycatcher,Bryce,100,0.6060606060606061
+21789,Bird,Pyrocephalus rubinus,Species of Concern,Vermilion Flycatcher,Great Smoky Mountains,39,0.2692307692307692
+21790,Bird,Pyrocephalus rubinus,Species of Concern,Vermilion Flycatcher,Yosemite,178,1.0
+21791,Bird,Pyrocephalus rubinus,Species of Concern,Vermilion Flycatcher,Yellowstone,207,0.7109004739336493
+21792,Mammal,Aplodontia rufa californica,Species of Concern,Sierra Nevada Mountain Beaver,Yosemite,151,0.8163265306122449
+21793,Mammal,Aplodontia rufa californica,Species of Concern,Sierra Nevada Mountain Beaver,Yellowstone,251,0.919431279620853
+21794,Mammal,Aplodontia rufa californica,Species of Concern,Sierra Nevada Mountain Beaver,Bryce,78,0.4393939393939394
+21795,Mammal,Aplodontia rufa californica,Species of Concern,Sierra Nevada Mountain Beaver,Great Smoky Mountains,57,0.4423076923076923
+21796,Bird,Falco peregrinus,Species of Concern,Peregrine Falcon,Bryce,100,0.6060606060606061
+21797,Bird,Falco peregrinus,Species of Concern,Peregrine Falcon,Yosemite,112,0.5510204081632653
+21798,Bird,Falco peregrinus,Species of Concern,Peregrine Falcon,Yellowstone,232,0.8293838862559242
+21799,Bird,Falco peregrinus,Species of Concern,Peregrine Falcon,Great Smoky Mountains,38,0.25961538461538464
+21800,Bird,Falco columbarius,Species of Concern,Merlin,Great Smoky Mountains,28,0.16346153846153846
+21801,Bird,Falco columbarius,Species of Concern,Merlin,Yellowstone,258,0.95260663507109
+21802,Bird,Falco columbarius,Species of Concern,Merlin,Yosemite,122,0.6190476190476191
+21803,Bird,Falco columbarius,Species of Concern,Merlin,Bryce,94,0.5606060606060606
+21804,Bird,Coccyzus erythropthalmus,Species of Concern,Black-Billed Cuckoo,Bryce,74,0.4090909090909091
+21805,Bird,Coccyzus erythropthalmus,Species of Concern,Black-Billed Cuckoo,Great Smoky Mountains,87,0.7307692307692307
+21806,Bird,Coccyzus erythropthalmus,Species of Concern,Black-Billed Cuckoo,Yosemite,127,0.6530612244897959
+21807,Bird,Coccyzus erythropthalmus,Species of Concern,Black-Billed Cuckoo,Yellowstone,220,0.7725118483412322
+21808,Bird,Dryocopus pileatus,Species of Concern,Pileated Woodpecker,Great Smoky Mountains,60,0.47115384615384615
+21809,Bird,Dryocopus pileatus,Species of Concern,Pileated Woodpecker,Yellowstone,237,0.8530805687203792
+21810,Bird,Dryocopus pileatus,Species of Concern,Pileated Woodpecker,Yosemite,111,0.54421768707483
+21811,Bird,Dryocopus pileatus,Species of Concern,Pileated Woodpecker,Bryce,74,0.4090909090909091
+21812,Vascular Plant,Monotropa uniflora,Species of Concern,"Indian Pipe, Indian-Pipe",Yosemite,129,0.6666666666666666
+21813,Vascular Plant,Monotropa uniflora,Species of Concern,"Indian Pipe, Indian-Pipe",Yellowstone,181,0.5876777251184834
+21814,Vascular Plant,Monotropa uniflora,Species of Concern,"Indian Pipe, Indian-Pipe",Bryce,98,0.5909090909090909
+21815,Vascular Plant,Monotropa uniflora,Species of Concern,"Indian Pipe, Indian-Pipe",Great Smoky Mountains,63,0.5
+21816,Vascular Plant,Monotropsis odorata,Species of Concern,"Sweet Pinesap, Sweet Pine-Sap",Great Smoky Mountains,55,0.4230769230769231
+21817,Vascular Plant,Monotropsis odorata,Species of Concern,"Sweet Pinesap, Sweet Pine-Sap",Bryce,75,0.4166666666666667
+21818,Vascular Plant,Monotropsis odorata,Species of Concern,"Sweet Pinesap, Sweet Pine-Sap",Yosemite,104,0.4965986394557823
+21819,Vascular Plant,Monotropsis odorata,Species of Concern,"Sweet Pinesap, Sweet Pine-Sap",Yellowstone,218,0.7630331753554502
+21820,Bird,Guiraca caerulea,Species of Concern,Blue Grosbeak,Yellowstone,228,0.8104265402843602
+21821,Bird,Guiraca caerulea,Species of Concern,Blue Grosbeak,Bryce,65,0.3409090909090909
+21822,Bird,Guiraca caerulea,Species of Concern,Blue Grosbeak,Great Smoky Mountains,63,0.5
+21823,Bird,Guiraca caerulea,Species of Concern,Blue Grosbeak,Yosemite,144,0.7687074829931972
+21824,Bird,Phalacrocorax auritus,Species of Concern,Double-Crested Cormorant,Great Smoky Mountains,45,0.3269230769230769
+21825,Bird,Phalacrocorax auritus,Species of Concern,Double-Crested Cormorant,Yosemite,117,0.5850340136054422
+21826,Bird,Phalacrocorax auritus,Species of Concern,Double-Crested Cormorant,Bryce,61,0.3106060606060606
+21827,Bird,Phalacrocorax auritus,Species of Concern,Double-Crested Cormorant,Yellowstone,218,0.7630331753554502
+21828,Mammal,Myotis evotis,Species of Concern,Long-Eared Myotis,Great Smoky Mountains,46,0.33653846153846156
+21829,Mammal,Myotis evotis,Species of Concern,Long-Eared Myotis,Yosemite,151,0.8163265306122449
+21830,Mammal,Myotis evotis,Species of Concern,Long-Eared Myotis,Bryce,82,0.4696969696969697
+21831,Mammal,Myotis evotis,Species of Concern,Long-Eared Myotis,Yellowstone,245,0.8909952606635071
+21832,Mammal,Myotis volans,Species of Concern,Long-Legged Myotis,Bryce,91,0.5378787878787878
+21833,Mammal,Myotis volans,Species of Concern,Long-Legged Myotis,Yellowstone,238,0.8578199052132701
+21834,Mammal,Myotis volans,Species of Concern,Long-Legged Myotis,Great Smoky Mountains,63,0.5
+21835,Mammal,Myotis volans,Species of Concern,Long-Legged Myotis,Yosemite,145,0.7755102040816326
+21836,Mammal,Myotis yumanensis,Species of Concern,Yuma Myotis,Great Smoky Mountains,83,0.6923076923076923
+21837,Mammal,Myotis yumanensis,Species of Concern,Yuma Myotis,Yellowstone,200,0.6777251184834123
+21838,Mammal,Myotis yumanensis,Species of Concern,Yuma Myotis,Bryce,86,0.5
+21839,Mammal,Myotis yumanensis,Species of Concern,Yuma Myotis,Yosemite,169,0.9387755102040817
+21840,Mammal,Lasionycteris noctivagans,Species of Concern,Silver-Haired Bat,Yosemite,108,0.5238095238095238
+21841,Mammal,Lasionycteris noctivagans,Species of Concern,Silver-Haired Bat,Yellowstone,205,0.7014218009478673
+21842,Mammal,Lasionycteris noctivagans,Species of Concern,Silver-Haired Bat,Great Smoky Mountains,29,0.17307692307692307
+21843,Mammal,Lasionycteris noctivagans,Species of Concern,Silver-Haired Bat,Bryce,100,0.6060606060606061
+21844,Mammal,Euderma maculatum,Species of Concern,Spotted Bat,Great Smoky Mountains,94,0.7980769230769231
+21845,Mammal,Euderma maculatum,Species of Concern,Spotted Bat,Yellowstone,225,0.7962085308056872
+21846,Mammal,Euderma maculatum,Species of Concern,Spotted Bat,Bryce,74,0.4090909090909091
+21847,Mammal,Euderma maculatum,Species of Concern,Spotted Bat,Yosemite,111,0.54421768707483
+21848,Mammal,Eptesicus fuscus,Species of Concern,Big Brown Bat,Yellowstone,227,0.8056872037914692
+21849,Mammal,Eptesicus fuscus,Species of Concern,Big Brown Bat,Great Smoky Mountains,59,0.46153846153846156
+21850,Mammal,Eptesicus fuscus,Species of Concern,Big Brown Bat,Yosemite,124,0.6326530612244898
+21851,Mammal,Eptesicus fuscus,Species of Concern,Big Brown Bat,Bryce,72,0.3939393939393939
+21852,Bird,Melospiza lincolnii,Species of Concern,Lincoln's Sparrow,Yosemite,164,0.9047619047619048
+21853,Bird,Melospiza lincolnii,Species of Concern,Lincoln's Sparrow,Yellowstone,207,0.7109004739336493
+21854,Bird,Melospiza lincolnii,Species of Concern,Lincoln's Sparrow,Bryce,80,0.45454545454545453
+21855,Bird,Melospiza lincolnii,Species of Concern,Lincoln's Sparrow,Great Smoky Mountains,63,0.5
+21856,Mammal,Antrozous pallidus,Species of Concern,Pallid Bat,Great Smoky Mountains,61,0.4807692307692308
+21857,Mammal,Antrozous pallidus,Species of Concern,Pallid Bat,Yosemite,134,0.7006802721088435
+21858,Mammal,Antrozous pallidus,Species of Concern,Pallid Bat,Yellowstone,244,0.8862559241706162
+21859,Mammal,Antrozous pallidus,Species of Concern,Pallid Bat,Bryce,67,0.3560606060606061
+21860,Bird,Riparia riparia,Species of Concern,"Bank Swallow, Sand Martin",Yellowstone,199,0.6729857819905213
+21861,Bird,Riparia riparia,Species of Concern,"Bank Swallow, Sand Martin",Bryce,88,0.5151515151515151
+21862,Bird,Riparia riparia,Species of Concern,"Bank Swallow, Sand Martin",Great Smoky Mountains,76,0.625
+21863,Bird,Riparia riparia,Species of Concern,"Bank Swallow, Sand Martin",Yosemite,125,0.6394557823129252
+21864,Bird,Asio flammeus,Species of Concern,Short-Eared Owl,Yosemite,105,0.5034013605442177
+21865,Bird,Asio flammeus,Species of Concern,Short-Eared Owl,Bryce,82,0.4696969696969697
+21866,Bird,Asio flammeus,Species of Concern,Short-Eared Owl,Yellowstone,225,0.7962085308056872
+21867,Bird,Asio flammeus,Species of Concern,Short-Eared Owl,Great Smoky Mountains,45,0.3269230769230769
+21868,Bird,Asio otus,Species of Concern,Long-Eared Owl,Bryce,94,0.5606060606060606
+21869,Bird,Asio otus,Species of Concern,Long-Eared Owl,Yosemite,151,0.8163265306122449
+21870,Bird,Asio otus,Species of Concern,Long-Eared Owl,Yellowstone,253,0.9289099526066351
+21871,Bird,Asio otus,Species of Concern,Long-Eared Owl,Great Smoky Mountains,56,0.4326923076923077
+21872,Bird,Aimophila aestivalis,Species of Concern,Bachman's Sparrow,Bryce,94,0.5606060606060606
+21873,Bird,Aimophila aestivalis,Species of Concern,Bachman's Sparrow,Great Smoky Mountains,49,0.36538461538461536
+21874,Bird,Aimophila aestivalis,Species of Concern,Bachman's Sparrow,Yosemite,146,0.782312925170068
+21875,Bird,Aimophila aestivalis,Species of Concern,Bachman's Sparrow,Yellowstone,228,0.8104265402843602
+21876,Bird,Gymnorhinus cyanocephalus,Species of Concern,Pinyon Jay,Yellowstone,244,0.8862559241706162
+21877,Bird,Gymnorhinus cyanocephalus,Species of Concern,Pinyon Jay,Yosemite,109,0.5306122448979592
+21878,Bird,Gymnorhinus cyanocephalus,Species of Concern,Pinyon Jay,Great Smoky Mountains,73,0.5961538461538461
+21879,Bird,Gymnorhinus cyanocephalus,Species of Concern,Pinyon Jay,Bryce,108,0.6666666666666666
+21880,Vascular Plant,Tofieldia glabra,Species of Concern,"Smooth Bog-Asphodel, Smooth Tofieldia",Great Smoky Mountains,75,0.6153846153846154
+21881,Vascular Plant,Tofieldia glabra,Species of Concern,"Smooth Bog-Asphodel, Smooth Tofieldia",Yellowstone,220,0.7725118483412322
+21882,Vascular Plant,Tofieldia glabra,Species of Concern,"Smooth Bog-Asphodel, Smooth Tofieldia",Bryce,70,0.3787878787878788
+21883,Vascular Plant,Tofieldia glabra,Species of Concern,"Smooth Bog-Asphodel, Smooth Tofieldia",Yosemite,138,0.7278911564625851
+21884,Bird,Certhia americana,Species of Concern,Brown Creeper,Yosemite,115,0.5714285714285714
+21885,Bird,Certhia americana,Species of Concern,Brown Creeper,Bryce,79,0.44696969696969696
+21886,Bird,Certhia americana,Species of Concern,Brown Creeper,Yellowstone,189,0.6255924170616114
+21887,Bird,Certhia americana,Species of Concern,Brown Creeper,Great Smoky Mountains,63,0.5
+21888,Vascular Plant,Abies fraseri,Species of Concern,Fraser Fir,Bryce,109,0.6742424242424242
+21889,Vascular Plant,Abies fraseri,Species of Concern,Fraser Fir,Great Smoky Mountains,81,0.6730769230769231
+21890,Vascular Plant,Abies fraseri,Species of Concern,Fraser Fir,Yosemite,110,0.5374149659863946
+21891,Vascular Plant,Abies fraseri,Species of Concern,Fraser Fir,Yellowstone,218,0.7630331753554502
+21892,Bird,Piranga rubra,Species of Concern,Summer Tanager,Yosemite,141,0.7482993197278912
+21893,Bird,Piranga rubra,Species of Concern,Summer Tanager,Yellowstone,233,0.8341232227488151
+21894,Bird,Piranga rubra,Species of Concern,Summer Tanager,Bryce,51,0.23484848484848486
+21895,Bird,Piranga rubra,Species of Concern,Summer Tanager,Great Smoky Mountains,58,0.4519230769230769
+21896,Nonvascular Plant,Plagiomnium carolinianum,Species of Concern,Carolina Plagiomnium Moss,Bryce,49,0.2196969696969697
+21897,Nonvascular Plant,Plagiomnium carolinianum,Species of Concern,Carolina Plagiomnium Moss,Great Smoky Mountains,87,0.7307692307692307
+21898,Nonvascular Plant,Plagiomnium carolinianum,Species of Concern,Carolina Plagiomnium Moss,Yellowstone,234,0.8388625592417062
+21899,Nonvascular Plant,Plagiomnium carolinianum,Species of Concern,Carolina Plagiomnium Moss,Yosemite,135,0.7074829931972789
+21900,Bird,Ammodramus savannarum,Species of Concern,Grasshopper Sparrow,Yellowstone,241,0.8720379146919431
+21901,Bird,Ammodramus savannarum,Species of Concern,Grasshopper Sparrow,Great Smoky Mountains,58,0.4519230769230769
+21902,Bird,Ammodramus savannarum,Species of Concern,Grasshopper Sparrow,Bryce,97,0.5833333333333334
+21903,Bird,Ammodramus savannarum,Species of Concern,Grasshopper Sparrow,Yosemite,124,0.6326530612244898
+21904,Mammal,Taxidea taxus,Species of Concern,"Badger, American Badger",Yosemite,122,0.6190476190476191
+21905,Mammal,Taxidea taxus,Species of Concern,"Badger, American Badger",Great Smoky Mountains,53,0.40384615384615385
+21906,Mammal,Taxidea taxus,Species of Concern,"Badger, American Badger",Bryce,65,0.3409090909090909
+21907,Mammal,Taxidea taxus,Species of Concern,"Badger, American Badger",Yellowstone,188,0.6208530805687204
+21908,Vascular Plant,Mimulus patulus,Species of Concern,Stalk-Leaved Monkey-Flower,Bryce,100,0.6060606060606061
+21909,Vascular Plant,Mimulus patulus,Species of Concern,Stalk-Leaved Monkey-Flower,Great Smoky Mountains,26,0.14423076923076922
+21910,Vascular Plant,Mimulus patulus,Species of Concern,Stalk-Leaved Monkey-Flower,Yellowstone,236,0.8483412322274881
+21911,Vascular Plant,Mimulus patulus,Species of Concern,Stalk-Leaved Monkey-Flower,Yosemite,119,0.5986394557823129
+21912,Reptile,Regina septemvittata,Species of Concern,Queen Snake,Yosemite,125,0.6394557823129252
+21913,Reptile,Regina septemvittata,Species of Concern,Queen Snake,Yellowstone,210,0.7251184834123223
+21914,Reptile,Regina septemvittata,Species of Concern,Queen Snake,Bryce,87,0.5075757575757576
+21915,Reptile,Regina septemvittata,Species of Concern,Queen Snake,Great Smoky Mountains,53,0.40384615384615385
+21916,Vascular Plant,Epilobium oreganum,Species of Concern,"Grants Pass Willowherb, Oregon Fireweed",Bryce,60,0.30303030303030304
+21917,Vascular Plant,Epilobium oreganum,Species of Concern,"Grants Pass Willowherb, Oregon Fireweed",Yellowstone,212,0.7345971563981043
+21918,Vascular Plant,Epilobium oreganum,Species of Concern,"Grants Pass Willowherb, Oregon Fireweed",Great Smoky Mountains,69,0.5576923076923077
+21919,Vascular Plant,Epilobium oreganum,Species of Concern,"Grants Pass Willowherb, Oregon Fireweed",Yosemite,121,0.6122448979591837
+21920,Bird,Lanius ludovicianus,Species of Concern,Loggerhead Shrike,Yosemite,127,0.6530612244897959
+21921,Bird,Lanius ludovicianus,Species of Concern,Loggerhead Shrike,Yellowstone,217,0.7582938388625592
+21922,Bird,Lanius ludovicianus,Species of Concern,Loggerhead Shrike,Bryce,92,0.5454545454545454
+21923,Bird,Lanius ludovicianus,Species of Concern,Loggerhead Shrike,Great Smoky Mountains,68,0.5480769230769231
+21924,Vascular Plant,Plagiobothrys torreyi var. diffusus,Species of Concern,Torrey's Popcornflower,Yellowstone,210,0.7251184834123223
+21925,Vascular Plant,Plagiobothrys torreyi var. diffusus,Species of Concern,Torrey's Popcornflower,Yosemite,134,0.7006802721088435
+21926,Vascular Plant,Plagiobothrys torreyi var. diffusus,Species of Concern,Torrey's Popcornflower,Great Smoky Mountains,49,0.36538461538461536
+21927,Vascular Plant,Plagiobothrys torreyi var. diffusus,Species of Concern,Torrey's Popcornflower,Bryce,107,0.6590909090909091
+21928,Reptile,Pituophis melanoleucus melanoleucus,Species of Concern,Northern Pine Snake,Yellowstone,191,0.6350710900473934
+21929,Reptile,Pituophis melanoleucus melanoleucus,Species of Concern,Northern Pine Snake,Yosemite,140,0.7414965986394558
+21930,Reptile,Pituophis melanoleucus melanoleucus,Species of Concern,Northern Pine Snake,Bryce,66,0.3484848484848485
+21931,Reptile,Pituophis melanoleucus melanoleucus,Species of Concern,Northern Pine Snake,Great Smoky Mountains,73,0.5961538461538461
+21932,Mammal,Myotis californicus,Species of Concern,"California Myotis, Californian Myotis",Bryce,97,0.5833333333333334
+21933,Mammal,Myotis californicus,Species of Concern,"California Myotis, Californian Myotis",Yellowstone,198,0.6682464454976303
+21934,Mammal,Myotis californicus,Species of Concern,"California Myotis, Californian Myotis",Great Smoky Mountains,62,0.49038461538461536
+21935,Mammal,Myotis californicus,Species of Concern,"California Myotis, Californian Myotis",Yosemite,133,0.6938775510204082
+21936,Vascular Plant,Delphinium exaltatum,Species of Concern,Tall Larkspur,Bryce,107,0.6590909090909091
+21937,Vascular Plant,Delphinium exaltatum,Species of Concern,Tall Larkspur,Yosemite,132,0.6870748299319728
+21938,Vascular Plant,Delphinium exaltatum,Species of Concern,Tall Larkspur,Yellowstone,225,0.7962085308056872
+21939,Vascular Plant,Delphinium exaltatum,Species of Concern,Tall Larkspur,Great Smoky Mountains,59,0.46153846153846156
+21940,Reptile,Diadophis punctatus,Species of Concern,"Ringneck Snake, Ring-Necked Snake",Bryce,76,0.42424242424242425
+21941,Reptile,Diadophis punctatus,Species of Concern,"Ringneck Snake, Ring-Necked Snake",Great Smoky Mountains,49,0.36538461538461536
+21942,Reptile,Diadophis punctatus,Species of Concern,"Ringneck Snake, Ring-Necked Snake",Yosemite,162,0.891156462585034
+21943,Reptile,Diadophis punctatus,Species of Concern,"Ringneck Snake, Ring-Necked Snake",Yellowstone,245,0.8909952606635071
+21944,Bird,Gavia immer,Species of Concern,"Great Northern Loon, Common Loon, Great Northern Diver",Great Smoky Mountains,58,0.4519230769230769
+21945,Bird,Gavia immer,Species of Concern,"Great Northern Loon, Common Loon, Great Northern Diver",Yellowstone,190,0.6303317535545023
+21946,Bird,Gavia immer,Species of Concern,"Great Northern Loon, Common Loon, Great Northern Diver",Bryce,81,0.4621212121212121
+21947,Bird,Gavia immer,Species of Concern,"Great Northern Loon, Common Loon, Great Northern Diver",Yosemite,152,0.8231292517006803
+21948,Reptile,Lampropeltis getula californiae,Species of Concern,California Kingsnake,Bryce,77,0.4318181818181818
+21949,Reptile,Lampropeltis getula californiae,Species of Concern,California Kingsnake,Great Smoky Mountains,110,0.9519230769230769
+21950,Reptile,Lampropeltis getula californiae,Species of Concern,California Kingsnake,Yellowstone,214,0.7440758293838863
+21951,Reptile,Lampropeltis getula californiae,Species of Concern,California Kingsnake,Yosemite,120,0.6054421768707483
+21952,Mammal,Myotis lucifugus,Species of Concern,"Little Brown Myotis, Little Brown Bat",Great Smoky Mountains,57,0.4423076923076923
+21953,Mammal,Myotis lucifugus,Species of Concern,"Little Brown Myotis, Little Brown Bat",Yosemite,124,0.6326530612244898
+21954,Mammal,Myotis lucifugus,Species of Concern,"Little Brown Myotis, Little Brown Bat",Bryce,87,0.5075757575757576
+21955,Mammal,Myotis lucifugus,Species of Concern,"Little Brown Myotis, Little Brown Bat",Yellowstone,207,0.7109004739336493
+21956,Vascular Plant,Iris missouriensis,Species of Concern,"Wild Iris, Rocky Mountain Iris, Wildiris, Western Blue Flag",Yosemite,127,0.6530612244897959
+21957,Vascular Plant,Iris missouriensis,Species of Concern,"Wild Iris, Rocky Mountain Iris, Wildiris, Western Blue Flag",Great Smoky Mountains,85,0.7115384615384616
+21958,Vascular Plant,Iris missouriensis,Species of Concern,"Wild Iris, Rocky Mountain Iris, Wildiris, Western Blue Flag",Yellowstone,189,0.6255924170616114
+21959,Vascular Plant,Iris missouriensis,Species of Concern,"Wild Iris, Rocky Mountain Iris, Wildiris, Western Blue Flag",Bryce,100,0.6060606060606061
+21960,Bird,Botaurus lentiginosus,Species of Concern,American Bittern,Yellowstone,225,0.7962085308056872
+21961,Bird,Botaurus lentiginosus,Species of Concern,American Bittern,Great Smoky Mountains,94,0.7980769230769231
+21962,Bird,Botaurus lentiginosus,Species of Concern,American Bittern,Yosemite,120,0.6054421768707483
+21963,Bird,Botaurus lentiginosus,Species of Concern,American Bittern,Bryce,74,0.4090909090909091
+21964,Mammal,Lepus americanus tahoensis,Species of Concern,Sierra Nevada Snowshoe Hare,Yosemite,117,0.5850340136054422
+21965,Mammal,Lepus americanus tahoensis,Species of Concern,Sierra Nevada Snowshoe Hare,Bryce,75,0.4166666666666667
+21966,Mammal,Lepus americanus tahoensis,Species of Concern,Sierra Nevada Snowshoe Hare,Great Smoky Mountains,70,0.5673076923076923
+21967,Mammal,Lepus americanus tahoensis,Species of Concern,Sierra Nevada Snowshoe Hare,Yellowstone,233,0.8341232227488151
+21968,Bird,Ardea herodias,Species of Concern,Great Blue Heron,Bryce,100,0.6060606060606061
+21969,Bird,Ardea herodias,Species of Concern,Great Blue Heron,Yellowstone,199,0.6729857819905213
+21970,Bird,Ardea herodias,Species of Concern,Great Blue Heron,Great Smoky Mountains,92,0.7788461538461539
+21971,Bird,Ardea herodias,Species of Concern,Great Blue Heron,Yosemite,161,0.8843537414965986
+21972,Mammal,Sylvilagus bachmani,Species of Concern,Brush Rabbit,Bryce,118,0.7424242424242424
+21973,Mammal,Sylvilagus bachmani,Species of Concern,Brush Rabbit,Great Smoky Mountains,27,0.15384615384615385
+21974,Mammal,Sylvilagus bachmani,Species of Concern,Brush Rabbit,Yellowstone,227,0.8056872037914692
+21975,Mammal,Sylvilagus bachmani,Species of Concern,Brush Rabbit,Yosemite,147,0.7891156462585034
+21976,Bird,Phainopepla nitens,Species of Concern,Phainopepla,Great Smoky Mountains,26,0.14423076923076922
+21977,Bird,Phainopepla nitens,Species of Concern,Phainopepla,Yosemite,143,0.7619047619047619
+21978,Bird,Phainopepla nitens,Species of Concern,Phainopepla,Yellowstone,230,0.8199052132701422
+21979,Bird,Phainopepla nitens,Species of Concern,Phainopepla,Bryce,100,0.6060606060606061
+21980,Vascular Plant,Euphorbia purpurea,Species of Concern,Glade Spurge,Bryce,88,0.5151515151515151
+21981,Vascular Plant,Euphorbia purpurea,Species of Concern,Glade Spurge,Yellowstone,213,0.7393364928909952
+21982,Vascular Plant,Euphorbia purpurea,Species of Concern,Glade Spurge,Yosemite,143,0.7619047619047619
+21983,Vascular Plant,Euphorbia purpurea,Species of Concern,Glade Spurge,Great Smoky Mountains,67,0.5384615384615384
+21984,Vascular Plant,Allium tribracteatum,Species of Concern,Threebract Onion,Yellowstone,230,0.8199052132701422
+21985,Vascular Plant,Allium tribracteatum,Species of Concern,Threebract Onion,Yosemite,135,0.7074829931972789
+21986,Vascular Plant,Allium tribracteatum,Species of Concern,Threebract Onion,Great Smoky Mountains,66,0.5288461538461539
+21987,Vascular Plant,Allium tribracteatum,Species of Concern,Threebract Onion,Bryce,125,0.7954545454545454
+21988,Vascular Plant,Silene ovata,Species of Concern,"Mountain Catchfly, Rough-Leaved Campion",Great Smoky Mountains,42,0.2980769230769231
+21989,Vascular Plant,Silene ovata,Species of Concern,"Mountain Catchfly, Rough-Leaved Campion",Bryce,100,0.6060606060606061
+21990,Vascular Plant,Silene ovata,Species of Concern,"Mountain Catchfly, Rough-Leaved Campion",Yosemite,110,0.5374149659863946
+21991,Vascular Plant,Silene ovata,Species of Concern,"Mountain Catchfly, Rough-Leaved Campion",Yellowstone,211,0.7298578199052133
+21992,Bird,Aythya affinis,Species of Concern,Lesser Scaup,Great Smoky Mountains,115,1.0
+21993,Bird,Aythya affinis,Species of Concern,Lesser Scaup,Yellowstone,224,0.7914691943127962
+21994,Bird,Aythya affinis,Species of Concern,Lesser Scaup,Yosemite,144,0.7687074829931972
+21995,Bird,Aythya affinis,Species of Concern,Lesser Scaup,Bryce,98,0.5909090909090909
+21996,Fish,Percina squamata,Species of Concern,Olive Darter,Bryce,97,0.5833333333333334
+21997,Fish,Percina squamata,Species of Concern,Olive Darter,Yellowstone,253,0.9289099526066351
+21998,Fish,Percina squamata,Species of Concern,Olive Darter,Yosemite,149,0.8027210884353742
+21999,Fish,Percina squamata,Species of Concern,Olive Darter,Great Smoky Mountains,58,0.4519230769230769
+22000,Bird,Chlidonias niger,Species of Concern,Black Tern,Yellowstone,218,0.7630331753554502
+22001,Bird,Chlidonias niger,Species of Concern,Black Tern,Bryce,105,0.6439393939393939
+22002,Bird,Chlidonias niger,Species of Concern,Black Tern,Yosemite,140,0.7414965986394558
+22003,Bird,Chlidonias niger,Species of Concern,Black Tern,Great Smoky Mountains,46,0.33653846153846156
+22004,Vascular Plant,Buckleya distichophylla,Species of Concern,Piratebush,Bryce,63,0.32575757575757575
+22005,Vascular Plant,Buckleya distichophylla,Species of Concern,Piratebush,Yosemite,135,0.7074829931972789
+22006,Vascular Plant,Buckleya distichophylla,Species of Concern,Piratebush,Yellowstone,212,0.7345971563981043
+22007,Vascular Plant,Buckleya distichophylla,Species of Concern,Piratebush,Great Smoky Mountains,64,0.5096153846153846
+22008,Mammal,Lasiurus blossevillii,Species of Concern,Western Red Bat,Bryce,113,0.7045454545454546
+22009,Mammal,Lasiurus blossevillii,Species of Concern,Western Red Bat,Great Smoky Mountains,70,0.5673076923076923
+22010,Mammal,Lasiurus blossevillii,Species of Concern,Western Red Bat,Yosemite,123,0.6258503401360545
+22011,Mammal,Lasiurus blossevillii,Species of Concern,Western Red Bat,Yellowstone,221,0.7772511848341233
+22012,Bird,Oreoscoptes montanus,Species of Concern,Sage Thrasher,Great Smoky Mountains,38,0.25961538461538464
+22013,Bird,Oreoscoptes montanus,Species of Concern,Sage Thrasher,Yosemite,127,0.6530612244897959
+22014,Bird,Oreoscoptes montanus,Species of Concern,Sage Thrasher,Yellowstone,202,0.6872037914691943
+22015,Bird,Oreoscoptes montanus,Species of Concern,Sage Thrasher,Bryce,107,0.6590909090909091
+22016,Bird,Larus atricilla,Species of Concern,Laughing Gull,Yellowstone,233,0.8341232227488151
+22017,Bird,Larus atricilla,Species of Concern,Laughing Gull,Great Smoky Mountains,78,0.6442307692307693
+22018,Bird,Larus atricilla,Species of Concern,Laughing Gull,Bryce,96,0.5757575757575758
+22019,Bird,Larus atricilla,Species of Concern,Laughing Gull,Yosemite,141,0.7482993197278912
+22020,Mammal,Bassariscus astutus,Species of Concern,Ringtail,Bryce,96,0.5757575757575758
+22021,Mammal,Bassariscus astutus,Species of Concern,Ringtail,Yellowstone,214,0.7440758293838863
+22022,Mammal,Bassariscus astutus,Species of Concern,Ringtail,Yosemite,134,0.7006802721088435
+22023,Mammal,Bassariscus astutus,Species of Concern,Ringtail,Great Smoky Mountains,76,0.625
+22024,Vascular Plant,Romneya coulteri,Species of Concern,Coulter's Matilija Poppy,Bryce,101,0.6136363636363636
+22025,Vascular Plant,Romneya coulteri,Species of Concern,Coulter's Matilija Poppy,Yosemite,125,0.6394557823129252
+22026,Vascular Plant,Romneya coulteri,Species of Concern,Coulter's Matilija Poppy,Great Smoky Mountains,67,0.5384615384615384
+22027,Vascular Plant,Romneya coulteri,Species of Concern,Coulter's Matilija Poppy,Yellowstone,215,0.7488151658767772
+22028,Vascular Plant,Shortia galacifolia,Species of Concern,Oconee Bells,Yellowstone,214,0.7440758293838863
+22029,Vascular Plant,Shortia galacifolia,Species of Concern,Oconee Bells,Great Smoky Mountains,73,0.5961538461538461
+22030,Vascular Plant,Shortia galacifolia,Species of Concern,Oconee Bells,Bryce,111,0.6893939393939394
+22031,Vascular Plant,Shortia galacifolia,Species of Concern,Oconee Bells,Yosemite,147,0.7891156462585034
+22032,Vascular Plant,Botrychium ascendens,Species of Concern,"Trianglelobe Moonwort, Upswept Moonwort",Bryce,102,0.6212121212121212
+22033,Vascular Plant,Botrychium ascendens,Species of Concern,"Trianglelobe Moonwort, Upswept Moonwort",Yosemite,149,0.8027210884353742
+22034,Vascular Plant,Botrychium ascendens,Species of Concern,"Trianglelobe Moonwort, Upswept Moonwort",Yellowstone,196,0.6587677725118484
+22035,Vascular Plant,Botrychium ascendens,Species of Concern,"Trianglelobe Moonwort, Upswept Moonwort",Great Smoky Mountains,30,0.18269230769230768
+22036,Bird,Nycticorax nycticorax,Species of Concern,"Black-Crowned Night Heron, Black-Crowned Night-Heron",Great Smoky Mountains,64,0.5096153846153846
+22037,Bird,Nycticorax nycticorax,Species of Concern,"Black-Crowned Night Heron, Black-Crowned Night-Heron",Bryce,75,0.4166666666666667
+22038,Bird,Nycticorax nycticorax,Species of Concern,"Black-Crowned Night Heron, Black-Crowned Night-Heron",Yosemite,125,0.6394557823129252
+22039,Bird,Nycticorax nycticorax,Species of Concern,"Black-Crowned Night Heron, Black-Crowned Night-Heron",Yellowstone,206,0.7061611374407583
+22040,Vascular Plant,Cardamine clematitis,Species of Concern,"Mountain Bitter Cress, Mountain Watercress",Yosemite,126,0.6462585034013606
+22041,Vascular Plant,Cardamine clematitis,Species of Concern,"Mountain Bitter Cress, Mountain Watercress",Bryce,108,0.6666666666666666
+22042,Vascular Plant,Cardamine clematitis,Species of Concern,"Mountain Bitter Cress, Mountain Watercress",Great Smoky Mountains,26,0.14423076923076922
+22043,Vascular Plant,Cardamine clematitis,Species of Concern,"Mountain Bitter Cress, Mountain Watercress",Yellowstone,193,0.6445497630331753
+22044,Vascular Plant,Abronia ammophila,Species of Concern,"Yellowstone Sand Verbena, Wyoming Sand Verbena",Yosemite,137,0.7210884353741497
+22045,Vascular Plant,Abronia ammophila,Species of Concern,"Yellowstone Sand Verbena, Wyoming Sand Verbena",Great Smoky Mountains,72,0.5865384615384616
+22046,Vascular Plant,Abronia ammophila,Species of Concern,"Yellowstone Sand Verbena, Wyoming Sand Verbena",Bryce,92,0.5454545454545454
+22047,Vascular Plant,Abronia ammophila,Species of Concern,"Yellowstone Sand Verbena, Wyoming Sand Verbena",Yellowstone,222,0.7819905213270142
+22048,Nonvascular Plant,Tortula ammonsiana,Species of Concern,Ammon's Screw-Moss,Yosemite,142,0.7551020408163265
+22049,Nonvascular Plant,Tortula ammonsiana,Species of Concern,Ammon's Screw-Moss,Bryce,98,0.5909090909090909
+22050,Nonvascular Plant,Tortula ammonsiana,Species of Concern,Ammon's Screw-Moss,Yellowstone,228,0.8104265402843602
+22051,Nonvascular Plant,Tortula ammonsiana,Species of Concern,Ammon's Screw-Moss,Great Smoky Mountains,43,0.3076923076923077
+22052,Bird,Coturnicops noveboracensis,Species of Concern,Yellow Rail,Yellowstone,204,0.6966824644549763
+22053,Bird,Coturnicops noveboracensis,Species of Concern,Yellow Rail,Yosemite,143,0.7619047619047619
+22054,Bird,Coturnicops noveboracensis,Species of Concern,Yellow Rail,Bryce,87,0.5075757575757576
+22055,Bird,Coturnicops noveboracensis,Species of Concern,Yellow Rail,Great Smoky Mountains,18,0.0673076923076923
+22056,Bird,Pelecanus erythrorhynchos,Species of Concern,American White Pelican,Great Smoky Mountains,93,0.7884615384615384
+22057,Bird,Pelecanus erythrorhynchos,Species of Concern,American White Pelican,Bryce,96,0.5757575757575758
+22058,Bird,Pelecanus erythrorhynchos,Species of Concern,American White Pelican,Yosemite,134,0.7006802721088435
+22059,Bird,Pelecanus erythrorhynchos,Species of Concern,American White Pelican,Yellowstone,246,0.8957345971563981
+22060,Vascular Plant,Achnatherum contractum,Species of Concern,Contracted Ricegrass,Yellowstone,219,0.7677725118483413
+22061,Vascular Plant,Achnatherum contractum,Species of Concern,Contracted Ricegrass,Yosemite,165,0.9115646258503401
+22062,Vascular Plant,Achnatherum contractum,Species of Concern,Contracted Ricegrass,Bryce,122,0.7727272727272727
+22063,Vascular Plant,Achnatherum contractum,Species of Concern,Contracted Ricegrass,Great Smoky Mountains,43,0.3076923076923077
+22064,Mammal,Ursus arctos horribilis,Threatened,Grizzly Bear,Bryce,38,0.13636363636363635
+22065,Mammal,Ursus arctos horribilis,Threatened,Grizzly Bear,Great Smoky Mountains,50,0.375
+22066,Mammal,Ursus arctos horribilis,Threatened,Grizzly Bear,Yosemite,73,0.2857142857142857
+22067,Mammal,Ursus arctos horribilis,Threatened,Grizzly Bear,Yellowstone,115,0.27488151658767773
+22068,Vascular Plant,Spiraea virginiana,Threatened,Virginia Spiraea,Yosemite,62,0.2108843537414966
+22069,Vascular Plant,Spiraea virginiana,Threatened,Virginia Spiraea,Great Smoky Mountains,45,0.3269230769230769
+22070,Vascular Plant,Spiraea virginiana,Threatened,Virginia Spiraea,Yellowstone,114,0.27014218009478674
+22071,Vascular Plant,Spiraea virginiana,Threatened,Virginia Spiraea,Bryce,57,0.2803030303030303
+22072,Fish,Erimonax monachus,Threatened,Spotfin Chub,Yosemite,69,0.2585034013605442
+22073,Fish,Erimonax monachus,Threatened,Spotfin Chub,Bryce,46,0.19696969696969696
+22074,Fish,Erimonax monachus,Threatened,Spotfin Chub,Yellowstone,109,0.24644549763033174
+22075,Fish,Erimonax monachus,Threatened,Spotfin Chub,Great Smoky Mountains,18,0.0673076923076923
+22076,Vascular Plant,Isotria medeoloides,Threatened,Small Whorled Pogonia,Yellowstone,114,0.27014218009478674
+22077,Vascular Plant,Isotria medeoloides,Threatened,Small Whorled Pogonia,Bryce,42,0.16666666666666666
+22078,Vascular Plant,Isotria medeoloides,Threatened,Small Whorled Pogonia,Yosemite,82,0.3469387755102041
+22079,Vascular Plant,Isotria medeoloides,Threatened,Small Whorled Pogonia,Great Smoky Mountains,36,0.2403846153846154
+22080,Amphibian,Rana draytonii,Threatened,California Red-Legged Frog,Great Smoky Mountains,43,0.3076923076923077
+22081,Amphibian,Rana draytonii,Threatened,California Red-Legged Frog,Yosemite,69,0.2585034013605442
+22082,Amphibian,Rana draytonii,Threatened,California Red-Legged Frog,Bryce,37,0.12878787878787878
+22083,Amphibian,Rana draytonii,Threatened,California Red-Legged Frog,Yellowstone,141,0.3981042654028436
+22084,Mammal,Myotis septentrionalis,Threatened,"Northern Long-Eared Bat, Northern Myotis",Great Smoky Mountains,34,0.22115384615384615
+22085,Mammal,Myotis septentrionalis,Threatened,"Northern Long-Eared Bat, Northern Myotis",Yellowstone,143,0.4075829383886256
+22086,Mammal,Myotis septentrionalis,Threatened,"Northern Long-Eared Bat, Northern Myotis",Bryce,52,0.24242424242424243
+22087,Mammal,Myotis septentrionalis,Threatened,"Northern Long-Eared Bat, Northern Myotis",Yosemite,73,0.2857142857142857
+22088,Amphibian,Anaxyrus canorus,Threatened,Yosemite Toad,Great Smoky Mountains,30,0.18269230769230768
+22089,Amphibian,Anaxyrus canorus,Threatened,Yosemite Toad,Bryce,43,0.17424242424242425
+22090,Amphibian,Anaxyrus canorus,Threatened,Yosemite Toad,Yosemite,87,0.38095238095238093
+22091,Amphibian,Anaxyrus canorus,Threatened,Yosemite Toad,Yellowstone,114,0.27014218009478674
+22092,Fish,Oncorhynchus clarkii henshawi,Threatened,Lahontan Cutthroat Trout,Great Smoky Mountains,48,0.3557692307692308
+22093,Fish,Oncorhynchus clarkii henshawi,Threatened,Lahontan Cutthroat Trout,Bryce,57,0.2803030303030303
+22094,Fish,Oncorhynchus clarkii henshawi,Threatened,Lahontan Cutthroat Trout,Yellowstone,111,0.2559241706161137
+22095,Fish,Oncorhynchus clarkii henshawi,Threatened,Lahontan Cutthroat Trout,Yosemite,85,0.3673469387755102
+22096,Fish,Noturus flavipinnis,Threatened,Yellowfin Madtom,Yosemite,72,0.2789115646258503
+22097,Fish,Noturus flavipinnis,Threatened,Yellowfin Madtom,Yellowstone,126,0.32701421800947866
+22098,Fish,Noturus flavipinnis,Threatened,Yellowfin Madtom,Great Smoky Mountains,36,0.2403846153846154
+22099,Fish,Noturus flavipinnis,Threatened,Yellowfin Madtom,Bryce,55,0.26515151515151514
+22100,Fish,Oncorhynchus mykiss,Threatened,Rainbow Trout,Bryce,59,0.29545454545454547
+22101,Fish,Oncorhynchus mykiss,Threatened,Rainbow Trout,Yellowstone,119,0.2938388625592417
+22102,Fish,Oncorhynchus mykiss,Threatened,Rainbow Trout,Great Smoky Mountains,39,0.2692307692307692
+22103,Fish,Oncorhynchus mykiss,Threatened,Rainbow Trout,Yosemite,59,0.19047619047619047
+22104,Bird,Gymnogyps californianus,Endangered,California Condor,Bryce,30,0.07575757575757576
+22105,Bird,Gymnogyps californianus,Endangered,California Condor,Yosemite,47,0.10884353741496598
+22106,Bird,Gymnogyps californianus,Endangered,California Condor,Great Smoky Mountains,15,0.038461538461538464
+22107,Bird,Gymnogyps californianus,Endangered,California Condor,Yellowstone,64,0.03317535545023697
+22108,Fish,Noturus baileyi,Endangered,Smoky Madtom,Great Smoky Mountains,23,0.11538461538461539
+22109,Fish,Noturus baileyi,Endangered,Smoky Madtom,Yellowstone,67,0.04739336492890995
+22110,Fish,Noturus baileyi,Endangered,Smoky Madtom,Bryce,22,0.015151515151515152
+22111,Fish,Noturus baileyi,Endangered,Smoky Madtom,Yosemite,31,0.0
+22112,Mammal,Myotis grisescens,Endangered,Gray Myotis,Bryce,27,0.05303030303030303
+22113,Mammal,Myotis grisescens,Endangered,Gray Myotis,Yellowstone,68,0.052132701421800945
+22114,Mammal,Myotis grisescens,Endangered,Gray Myotis,Yosemite,39,0.05442176870748299
+22115,Mammal,Myotis grisescens,Endangered,Gray Myotis,Great Smoky Mountains,26,0.14423076923076922
+22116,Fish,Etheostoma percnurum,Endangered,Duskytail Darter,Yellowstone,70,0.061611374407582936
+22117,Fish,Etheostoma percnurum,Endangered,Duskytail Darter,Great Smoky Mountains,31,0.19230769230769232
+22118,Fish,Etheostoma percnurum,Endangered,Duskytail Darter,Bryce,25,0.03787878787878788
+22119,Fish,Etheostoma percnurum,Endangered,Duskytail Darter,Yosemite,40,0.061224489795918366
+22120,Bird,Grus americana,Endangered,Whooping Crane,Great Smoky Mountains,13,0.019230769230769232
+22121,Bird,Grus americana,Endangered,Whooping Crane,Yellowstone,57,0.0
+22122,Bird,Grus americana,Endangered,Whooping Crane,Bryce,24,0.030303030303030304
+22123,Bird,Grus americana,Endangered,Whooping Crane,Yosemite,37,0.04081632653061224
+22124,Fish,Chasmistes liorus,Endangered,June Sucker,Bryce,23,0.022727272727272728
+22125,Fish,Chasmistes liorus,Endangered,June Sucker,Yellowstone,65,0.037914691943127965
+22126,Fish,Chasmistes liorus,Endangered,June Sucker,Great Smoky Mountains,23,0.11538461538461539
+22127,Fish,Chasmistes liorus,Endangered,June Sucker,Yosemite,35,0.027210884353741496
+22128,Bird,Picoides borealis,Endangered,Red-Cockaded Woodpecker,Yosemite,43,0.08163265306122448
+22129,Bird,Picoides borealis,Endangered,Red-Cockaded Woodpecker,Great Smoky Mountains,15,0.038461538461538464
+22130,Bird,Picoides borealis,Endangered,Red-Cockaded Woodpecker,Yellowstone,64,0.03317535545023697
+22131,Bird,Picoides borealis,Endangered,Red-Cockaded Woodpecker,Bryce,24,0.030303030303030304
+22132,Mammal,Ovis canadensis sierrae,Endangered,Sierra Nevada Bighorn Sheep,Yellowstone,67,0.04739336492890995
+22133,Mammal,Ovis canadensis sierrae,Endangered,Sierra Nevada Bighorn Sheep,Yosemite,39,0.05442176870748299
+22134,Mammal,Ovis canadensis sierrae,Endangered,Sierra Nevada Bighorn Sheep,Bryce,22,0.015151515151515152
+22135,Mammal,Ovis canadensis sierrae,Endangered,Sierra Nevada Bighorn Sheep,Great Smoky Mountains,25,0.1346153846153846
+22136,Mammal,Canis lupus,Endangered,"Gray Wolf, Wolf",Yosemite,35,0.027210884353741496
+22137,Mammal,Canis lupus,Endangered,"Gray Wolf, Wolf",Bryce,27,0.05303030303030303
+22138,Mammal,Canis lupus,Endangered,"Gray Wolf, Wolf",Yellowstone,60,0.014218009478672985
+22139,Mammal,Canis lupus,Endangered,"Gray Wolf, Wolf",Great Smoky Mountains,14,0.028846153846153848
+22140,Mammal,Glaucomys sabrinus coloratus,Endangered,"Northern Flying Squirrel, Carolina Northern Flying Squirrel",Bryce,29,0.06818181818181818
+22141,Mammal,Glaucomys sabrinus coloratus,Endangered,"Northern Flying Squirrel, Carolina Northern Flying Squirrel",Great Smoky Mountains,21,0.09615384615384616
+22142,Mammal,Glaucomys sabrinus coloratus,Endangered,"Northern Flying Squirrel, Carolina Northern Flying Squirrel",Yosemite,36,0.034013605442176874
+22143,Mammal,Glaucomys sabrinus coloratus,Endangered,"Northern Flying Squirrel, Carolina Northern Flying Squirrel",Yellowstone,67,0.04739336492890995
+22144,Amphibian,Rana sierrae,Endangered,Sierra Nevada Yellow-Legged Frog,Yosemite,42,0.07482993197278912
+22145,Amphibian,Rana sierrae,Endangered,Sierra Nevada Yellow-Legged Frog,Yellowstone,60,0.014218009478672985
+22146,Amphibian,Rana sierrae,Endangered,Sierra Nevada Yellow-Legged Frog,Bryce,31,0.08333333333333333
+22147,Amphibian,Rana sierrae,Endangered,Sierra Nevada Yellow-Legged Frog,Great Smoky Mountains,11,0.0
+22148,Bird,Vermivora bachmanii,Endangered,"Bachman's Warbler, Bachman's Wood Warbler",Bryce,20,0.0
+22149,Bird,Vermivora bachmanii,Endangered,"Bachman's Warbler, Bachman's Wood Warbler",Yosemite,45,0.09523809523809523
+22150,Bird,Vermivora bachmanii,Endangered,"Bachman's Warbler, Bachman's Wood Warbler",Yellowstone,58,0.004739336492890996
+22151,Bird,Vermivora bachmanii,Endangered,"Bachman's Warbler, Bachman's Wood Warbler",Great Smoky Mountains,18,0.0673076923076923
+22152,Vascular Plant,Geum radiatum,Endangered,"Spreading Avens, Mountain Avens",Great Smoky Mountains,27,0.15384615384615385
+22153,Vascular Plant,Geum radiatum,Endangered,"Spreading Avens, Mountain Avens",Yellowstone,63,0.02843601895734597
+22154,Vascular Plant,Geum radiatum,Endangered,"Spreading Avens, Mountain Avens",Yosemite,47,0.10884353741496598
+22155,Vascular Plant,Geum radiatum,Endangered,"Spreading Avens, Mountain Avens",Bryce,25,0.03787878787878788
+22156,Mammal,Canis rufus,Endangered,Red Wolf,Bryce,30,0.07575757575757576
+22157,Mammal,Canis rufus,Endangered,Red Wolf,Yosemite,34,0.02040816326530612
+22158,Mammal,Canis rufus,Endangered,Red Wolf,Great Smoky Mountains,13,0.019230769230769232
+22159,Mammal,Canis rufus,Endangered,Red Wolf,Yellowstone,60,0.014218009478672985
+22160,Mammal,Myotis sodalis,Endangered,"Indiana Or Social Myotis, Indiana Bat",Yosemite,36,0.034013605442176874
+22161,Mammal,Myotis sodalis,Endangered,"Indiana Or Social Myotis, Indiana Bat",Great Smoky Mountains,14,0.028846153846153848
+22162,Mammal,Myotis sodalis,Endangered,"Indiana Or Social Myotis, Indiana Bat",Bryce,27,0.05303030303030303
+22163,Mammal,Myotis sodalis,Endangered,"Indiana Or Social Myotis, Indiana Bat",Yellowstone,68,0.052132701421800945
